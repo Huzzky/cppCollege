@@ -12,8 +12,6 @@ using namespace std;
 int main(void)
 {
 
-    // * Потому что просто надо
-    system("chcp 1251>nul");
     //* Приветствие
     cout << "Hello, User \nToday there will be a calculation and comparison of a complex radical\n" << endl;
 
